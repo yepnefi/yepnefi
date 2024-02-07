@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @yepnefi
-- 👀 I’m interested in serverside programming
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
